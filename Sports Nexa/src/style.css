@@ -22,6 +22,9 @@
 }
 
 
+.content a{
+    color: #fff;
+}
 .navBarFix{
     position: fixed;
     z-index: 99;
@@ -99,6 +102,7 @@ li a:hover{
 
 .bookIcon{
     justify-content: left;
+    color: #fff;
 }
 
 
@@ -106,6 +110,7 @@ li a:hover{
     text-decoration: none;
     display: inline-block;
     color: #fff;
+    font-weight: 600;
     font-size: 18px;
     border: 3px solid #fff;
     padding: 8px 30px;
